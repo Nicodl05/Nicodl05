@@ -2,9 +2,9 @@
 
 
 
--- I am an engineer student specializing in cybersecurity.
--- I am currently studying at ECE Paris.
--- I am passionate about software and mobile development, but I am also interested in all kinds of new technologies.
+- I am an engineer student specializing in cybersecurity.
+- I am currently studying at ECE Paris.
+- I am passionate about software and mobile development, but I am also interested in all kinds of new technologies.
 
 ## Education
 
