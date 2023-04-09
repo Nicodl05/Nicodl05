@@ -8,13 +8,13 @@
 
 ## Education
 
-- ECE Paris, Engineer specialized in Information Systems
+- ECE Paris, Engineer
 
 ## Contact Information
 
 - Email: nicolas.dreyfus@outlook.fr
 
-My GitHub Stats: 
+## My GitHub Stats: 
 
 
 [![Nicodl05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&theme=dark)](https://github.com/Nicodl05/github-readme-stats)
