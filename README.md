@@ -8,7 +8,8 @@
 
 ## Education
 
-- ECE Paris, Engineer
+- ECE Paris, Engineer School
+- Inseec U London
 
 ## Contact Information
 
