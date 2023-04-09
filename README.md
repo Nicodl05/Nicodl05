@@ -18,6 +18,6 @@
 ## My GitHub Stats: 
 
 [![Nicodl05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&theme=dark)](https://github.com/Nicodl05/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&theme=dark)](https://github.com/Nicodl05/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&theme=dark)](https://github.com/Nicodl05/github-readme-stats)
 
 
