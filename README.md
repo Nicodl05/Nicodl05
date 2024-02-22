@@ -1,23 +1,22 @@
 ### Hello there, I'm Nicolas 👋
 
-
-
-- I am an engineer student specializing in cybersecurity.
-- I am currently studying at ECE Paris.
-- I am passionate about software development, but I am also interested in all kinds of new technologies.
+- I'm an engineering student specializing in cybersecurity.
+- I completed my studies at ECE Paris. I'm concluding my studies by working at Onepoint in Paris as a backend consultant.
+- I'm passionate about software development, and I'm also interested in all kinds of new technologies.
 
 ## Education
 
-- ECE Paris, Engineer School
+- ECE Paris, Engineering School
 - Inseec U London
 
 ## Contact Information
 
 - Email: nicolas.dreyfus@outlook.fr
 
-## My GitHub Stats: 
+## GitHub Stats
 
-[![Nicodl05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&theme=dark)](https://github.com/Nicodl05/github-readme-stats) 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&theme=dark)](https://github.com/Nicodl05/github-readme-stats)
+![Nicodl05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&show_icons=true&theme=radical)
 
+## Top Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
