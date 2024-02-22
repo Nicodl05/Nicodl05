@@ -4,6 +4,12 @@
 - I completed my studies at ECE Paris. I'm concluding my studies by working at Onepoint in Paris as a backend consultant.
 - I'm passionate about software development, and I'm also interested in all kinds of new technologies.
 
+  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ## Education
 
 - ECE Paris, Engineering School
@@ -15,8 +21,4 @@
 
 ## GitHub Stats
 
-![Nicodl05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&show_icons=true&theme=radical)
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Nicodl05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
