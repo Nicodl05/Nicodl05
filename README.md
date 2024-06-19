@@ -2,6 +2,7 @@
 
 - I'm an engineering student specializing in cybersecurity.
 - I completed my studies at ECE Paris. I'm concluding my studies by working at Onepoint in Paris as a backend consultant.
+- Rigtht now, I'm looking for a new job opportunity in software development
 - I'm passionate about software development, and I'm also interested in all kinds of new technologies.
 
   
