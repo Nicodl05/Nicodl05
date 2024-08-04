@@ -1,9 +1,9 @@
-### Hello there, I'm Nicolas 👋
-
-- I'm an engineering student specializing in cybersecurity.
-- I completed my studies at ECE Paris. I'm concluding my studies by working at Onepoint in Paris as a backend consultant.
-- Rigtht now, I'm looking for a new job opportunity in software development
-- I'm passionate about software development, and I'm also interested in all kinds of new technologies.
+Hello there, I'm Nicolas 👋
+🎓 I'm an engineering student specialized in software engineering and cybersecurity.
+🏫 I completed my studies at ECE Paris and Onepoint in Paris as a backend consultant.
+💼 Currently, I'm looking for new job opportunities in software development.
+💻 I'm passionate about software development and I'm also interested in all kinds of new technologies.
+Feel free to connect with me!
 
   
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
