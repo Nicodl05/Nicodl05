@@ -28,4 +28,4 @@
 ## 📊 Statistiques GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&layout=compact&theme=calm)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&show_icons=true&theme=calm)
+
