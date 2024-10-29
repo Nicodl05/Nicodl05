@@ -1,25 +1,31 @@
-### Hello there, I'm Nicolas 👋
-- 🎓 I'm an engineering student specialized in software engineering and cybersecurity.
-- 🏫 I completed my studies at ECE Paris and Onepoint in Paris as a backend consultant.
-- 💼 Currently, I'm looking for new job opportunities in software development.
-- 💻 I'm passionate about software development and I'm also interested in all kinds of new technologies.
-Feel free to connect with me!
+### 👋 Hello I'm Nicolas Dreyfus--Laquièze 👋
 
-  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-## Education
+- Diplôme d'ingénieur en Systèmes d'Information et Cybersécurité — ECE Paris
+- Ingénieur logiciel spécialisé en développement logiciel et DevOps
+- Expériences :
+  - **Thales** — Stage
+  - **Onepoint / CACIB** — Stage: Mission de consulting
+- Ouvert aux opportunités en développement logiciel et DevOps
+- Passionné par le code, le DevOps, et les nouvelles technologies
 
-- ECE Paris, Engineering School
-- Inseec U London
+## 🎓 Formation
 
-## Contact Information
+- **ECE Paris** — École d'ingénieurs, diplôme en Systèmes d'Information et Cybersécurité
 
-- Email: nicolas.dreyfus@outlook.fr
+## 📬 Contact
 
-## GitHub Stats
+- **Email** : [nicolas.dreyfus@outlook.fr](mailto:nicolas.dreyfus@outlook.fr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Stack Technique
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-3C3C3D?style=for-the-badge&logo=devops&logoColor=white)
+
+## 📊 Statistiques GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicodl05&layout=compact&theme=calm)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicodl05&show_icons=true&theme=calm)
