@@ -5,7 +5,7 @@
 - Expériences :
   - **Thales** — Stage
   - **Onepoint / CACIB** — Stage: Mission de consulting
-- Ouvert aux opportunités en développement logiciel et DevOps
+- Actuellement consultant ingénieur logiciel chez Aneo sur le projet ArmoniK
 - Passionné par le code, le DevOps, et les nouvelles technologies
 
 ## 🎓 Formation
