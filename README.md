@@ -8,9 +8,9 @@ On my GitHub, you'll find projects related to **C# applications**, **DevOps auto
 ---
 
 ## **🛠️ Tools & Technologies**
-| **Software Development**               | **DevOps**                     | **Cloud & Automation**         |
+| **Software Development**               | **DevOps**                     | **Cloud**         |
 |----------------------------------------|--------------------------------|--------------------------------|
-| <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=dotnet" /> <img src="https://skillicons.dev/icons?i=ts" />  <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=terraform" />  <img src="https://skillicons.dev/icons?i=kubernetes" /> | <img src="https://skillicons.dev/icons?i=aws" /> <img src="https://skillicons.dev/icons?i=gcp" /> <img src="https://skillicons.dev/icons?i=githubactions" />
+| <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=dotnet" /> <img src="https://skillicons.dev/icons?i=ts" />  <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=terraform" />  <img src="https://skillicons.dev/icons?i=kubernetes" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=gitlab" /> <img src="https://skillicons.dev/icons?i=githubactions" /> | <img src="https://skillicons.dev/icons?i=aws" /> <img src="https://skillicons.dev/icons?i=gcp" />| 
 
 
 
