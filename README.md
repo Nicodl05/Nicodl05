@@ -16,7 +16,7 @@ On my GitHub, you'll find projects related to **C# applications**, **DevOps auto
 
 ## **💼 Experience**
 - **Aneo** — Software Engineer Consultant — 2024-Present
-  - Mission for **Limagrain**: Setting up a **Terraform deployment on GCP** to deploy infrastructure for running **Nextflow workflows** in a **HPC environment**.
+  - Mission: Setting up a **Terraform deployment on GCP** to deploy infrastructure for running **Nextflow workflows** in a **HPC environment**.
   - [Aneo Consulting GitHub](https://github.com/aneoconsulting) (Projects I contributed to)
 - **Onepoint / CACIB** — Consulting Internship: Software Development & DevOps — 2024
 - **Thales** — Internship: Software Engineering — 2023
