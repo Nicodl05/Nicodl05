@@ -1,9 +1,12 @@
 ### 👋 Hello I'm Nicolas Dreyfus--Laquièze 👋
-I'm a **Software Engineer** specializing in **C# development** and **DevOps practices**. My work focuses on building scalable, maintainable software solutions, with a strong interest in automation and cloud-native architectures.
-- **Software Development**: Passionate about **C#**, **.NET**, and writing clean, efficient code.
-- **DevOps**: I design and optimize CI/CD pipelines, and work with containerization (**Docker**, **Kubernetes**) to streamline deployments.
-- **Cloud Upskilling**: Currently training on **GCP** and **AWS** to expand my expertise in cloud solutions and infrastructure as code (**Terraform**).
-On my GitHub, you'll find projects related to **C# applications**, **DevOps automation**.
+
+**I'm a DevOps & Cloud Engineer**, with a background in **software development**. My expertise lies in **building scalable, automated cloud infrastructures** and **optimizing deployment workflows**, while ensuring maintainability and performance.
+
+- **DevOps & Cloud**: I design and optimize **CI/CD pipelines**, leverage **containerization** for seamless deployments, and architect **cloud-native solutions** (with a focus on **infrastructure as code**).
+- **Software Development**: When coding, I prefer **C# or Python** to build clean, efficient applications.
+- **Continuous Learning**: Actively expanding my skills in **cloud platforms** and modern DevOps practices.
+
+On my GitHub, you’ll find projects related to **cloud automation**, **DevOps tooling**, and **backend applications**—reflecting my dual passion for infrastructure and development.
 
 ---
 
@@ -23,7 +26,7 @@ On my GitHub, you'll find projects related to **C# applications**, **DevOps auto
 ---
 
 ## **🎓 Education**
-- **ECE Paris** — Engineering Degree, Major in Information Systems — Promotion 2024
+- **ECE Paris** — Engineering Degree, Major in Information Systems & Cybersecurity — 2024
 
 ---
 
