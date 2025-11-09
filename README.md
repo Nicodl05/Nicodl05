@@ -5,9 +5,6 @@
 - **DevOps & Cloud**: I design and optimize **CI/CD pipelines**, leverage **containerization** for seamless deployments, and architect **cloud-native solutions** (with a focus on **infrastructure as code**).
 - **Software Development**: When coding, I prefer **C# or Python** to build clean, efficient applications.
 - **Continuous Learning**: Actively expanding my skills in **cloud platforms** and modern DevOps practices.
-
-On my GitHub, you’ll find projects related to **cloud automation**, **DevOps tooling**, and **backend applications**—reflecting my dual passion for infrastructure and development.
-
 ---
 
 ## **🛠️ Tools & Technologies**
@@ -15,6 +12,9 @@ On my GitHub, you’ll find projects related to **cloud automation**, **DevOps t
 |----------------------------------------|--------------------------------|--------------------------------|
 | <img src="https://skillicons.dev/icons?i=cs" /> <img src="https://skillicons.dev/icons?i=dotnet" /> <img src="https://skillicons.dev/icons?i=ts" />  <img src="https://skillicons.dev/icons?i=py" /> | <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=terraform" />  <img src="https://skillicons.dev/icons?i=kubernetes" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=gitlab" /> <img src="https://skillicons.dev/icons?i=githubactions" /> | <img src="https://skillicons.dev/icons?i=aws" /> <img src="https://skillicons.dev/icons?i=gcp" />| 
 
+
+## **📜 Certifications**
+- **[AWS Certified DevOps Engineer – Professional](https://www.credly.com/users/nicolas-dreyfus-laquieze)**
 
 
 ## **💼 Experience**
