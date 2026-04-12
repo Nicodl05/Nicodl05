@@ -19,7 +19,7 @@
 
 ## **💼 Experience**
 - **Aneo** — Software Engineer Consultant — 2024-Present
-  - Worked for clients in the CIB and agri-food sectors.
+  - Worked for clients in the CIB, bioscience engineering, agri-food sectors.
 - **Onepoint / CIB Client** — Consulting Internship: Software Development & DevOps — 2024
 - **Thales** — Internship: Software Engineering — 2023
 
