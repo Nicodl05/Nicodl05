@@ -1,6 +1,6 @@
 ### 👋 Hello I'm Nicolas Dreyfus--Laquièze 👋
 
-**I'm a DevOps & Cloud Engineer**, with a background in **software development**. My expertise lies in **building scalable, automated cloud infrastructures** and **optimizing deployment workflows**, while ensuring maintainability and performance.
+**I'm a Cloud Engineer**, with a background in **software development**. My expertise lies in **building scalable, automated cloud infrastructures** and **optimizing deployment workflows**, while ensuring maintainability and performance.
 
 - **DevOps & Cloud**: I design and optimize **CI/CD pipelines**, leverage **containerization** for seamless deployments, and architect **cloud-native solutions** (with a focus on **infrastructure as code**).
 - **Software Development**: When coding, I prefer **C# or Python** to build clean, efficient applications.
